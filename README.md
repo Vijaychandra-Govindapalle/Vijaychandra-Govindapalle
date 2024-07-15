@@ -3,8 +3,6 @@
 <!--
 **Vijaychandra-Govindapalle/Vijaychandra-Govindapalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Mulists a collaborative music playlists application
 - 🌱 I’m currently learning Nextjs
 - 💬 Ask me about Web dev
